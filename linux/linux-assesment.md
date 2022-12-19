@@ -621,4 +621,4 @@ isse letter drift problem, mentionned here https://access.redhat.com/discussions
 - [ ] EREs can match the groups.
 - [ ] EREs support occurrence operators.
 - [ ] ERE's support alternation.
-- [ ] only the syntax differs.
+- [x] only the syntax differs.
